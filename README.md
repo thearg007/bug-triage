@@ -40,4 +40,4 @@ Feel free to open an issue or submit a pull request if you have ideas for new fe
 
 ---
 
-**Developed with ❤️ by [arg007](https://github.com/thearg007)**
+**Developed with ❤️ by [thearg007](https://github.com/thearg007)**
